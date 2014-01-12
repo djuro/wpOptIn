@@ -1,0 +1,14 @@
+This is a WordPress plugin which is used to obtain visitor's e-mail address in exchange for access data to some free product or service.
+
+Features:
+Opens a jquery dialog box when user clicks on a specified link at the website. 
+Dialog box contains a simple form containing two fields: user e-mail address and captcha result field.
+
+Entered e-mail address is sent by e-mail to the website owner and another e-mail is sent to the user. 
+Message sent to user contains specific data provided in exchange for user's e-mail address.
+
+Configuration:
+Specific links, labels and message text can be configured by editing javascript file.
+
+Notice:
+This plugin does not use e-mail marketing opt-in forms issued by commercial services.
