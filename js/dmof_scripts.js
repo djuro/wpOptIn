@@ -29,7 +29,7 @@ jQuery("a").click(function(e){
 		e.preventDefault();
 		
 
-		var formTitle = "Access to your awsome product";
+		var formTitle = "Access to your awesome product";
 		var pitchLine = "Teaser text of your choice eg.:(Enter your e-mail address and start using our product. <br>We will not use your e-mail for anything else but to send you access data.)";
 		var buttonPitch = "Send";
 
